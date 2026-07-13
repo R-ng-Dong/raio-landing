@@ -1,17 +1,17 @@
 # Site settings
-title: RalliSmart
+title: RaioSmart
 description: >
-  RalliSmart V2 Landing page
+  RaioSmart Landing page
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://rallismart-about.rangdong.com.vn" # the base hostname & protocol for your site
+url: "https://raio-about.rangdong.com.vn" # the base hostname & protocol for your site
 
 author:
-  fullname: RalliSmart V2
+  fullname: RaioSmart
   github: rang-dong/rallismartv2
   # linkedin: linkedin
   email: technical@rangdong.com.vn
-  website: rallismartv2.rangdong.com.vn
+  website: raio.rangdong.com.vn
 
 
 # Syntax highlighting

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Chính Sách Bảo Mật
-subtitle: Chính Sách Bảo Mật cho sản phẩm RalliSmart V2
+subtitle: Chính Sách Bảo Mật cho sản phẩm RaioSmart
 ---
 
 # Chính sách bảo mật
@@ -36,20 +36,11 @@ subtitle: Chính Sách Bảo Mật cho sản phẩm RalliSmart V2
 
 5\. Cách thức xóa dữ liệu
 
-- Chúng tôi cung cấp cho bạn cách thức để xóa dữ liệu của bạn trong ứng dụng.
-
-    - Bước 1: Đăng nhập vào ứng dụng, chọn **Profile**
-    ![profile-1](/assets/img/profile-1.JPEG)
-    - Bước 2: Bấm vào tên của bạn ở đầu trang để xem thông tin chi tiết tài khoản
-    ![profile-2](/assets/img/profile-2.JPEG)
-    - Bước 3: Bấm vào xóa tài khoản, xác nhận:
-    ![profile-3](/assets/img/profile-3.JPEG)
-
-    Tài khoản và dữ liệu của bạn sẽ được xóa khỏi hệ thống.
+- Nếu bạn muốn xóa tài khoản và dữ liệu cá nhân, vui lòng liên hệ tổng đài hỗ trợ: **1900 2098** để được hỗ trợ xóa tài khoản.
 
 6\. Thông tin liên lạc
 
-- Nếu Quý khách có bất kỳ thắc mắc, ý kiến đóng góp, liên hệ hay phản hồi về "Chính sách bảo mật" này, xin vui lòng liên hệ theo địa chỉ email: 
+- Nếu Quý khách có bất kỳ thắc mắc, ý kiến đóng góp, liên hệ hay phản hồi về "Chính sách bảo mật" này, xin vui lòng liên hệ theo địa chỉ email:
 
 ## Thông tin liên hệ
 
@@ -59,11 +50,11 @@ CÔNG TY CỔ PHẦN BÓNG ĐÈN PHÍCH NƯỚC RẠNG ĐÔNG
 
 Phường Thanh Xuân Trung, Quận Thanh Xuân, Hà Nội
 
-[(+84 - 24) 3 858 5038](tel:842438584310) / [3 858 4165](tel:842438584165)
+[(+84 - 24) 3 858 5038](tel:842438584310) / [3 858 4165](tel:842438584165)
 
-[ (+84 - 24) 3 858 5038](mailto:)
+[ (+84 - 24) 3 858 5038](mailto:)
 
-Hotline: [1900 2098](tel:1900 2098)
+Hotline: [1900 2098](tel:1900 2098)
 
 # Privacy Policy
 
@@ -95,16 +86,7 @@ Hotline: [1900 2098](tel:1900 2098)
 
 5\. How to delete your personal information
 
-- We provide a simple way to delete your personal information
-
-    - Step 1: Login to the app, select the tab **Profile**
-    ![profile-1](/assets/img/en-profile-1.JPEG)
-    - Step 2: Tap to your name on the top of the screen
-    ![profile-2](/assets/img/en-profile-2.JPEG)
-    - Step 3: Tap to "Delete account"
-    ![profile-3](/assets/img/en-profile-3.JPEG)
-
-    Your account and personal information will be fully deleted
+- If you want to delete your account and personal data, please contact our hotline: **1900 2098** for account deletion support.
 
 6\. Contact information
 
@@ -118,8 +100,8 @@ CÔNG TY CỔ PHẦN BÓNG ĐÈN PHÍCH NƯỚC RẠNG ĐÔNG
 
 Thanh Xuan Trung, Thanh Xuan, Hanoi
 
-[(+84 - 24) 3 858 5038](tel:842438584310) / [3 858 4165](tel:842438584165)
+[(+84 - 24) 3 858 5038](tel:842438584310) / [3 858 4165](tel:842438584165)
 
-[ (+84 - 24) 3 858 5038](mailto:)
+[ (+84 - 24) 3 858 5038](mailto:)
 
-Hotline: [1900 2098](tel:1900 2098)
+Hotline: [1900 2098](tel:1900 2098)
