@@ -208,6 +208,9 @@
       justify-content: center;
       width: 100%; }
 
+    .logo-text {
+      display: none; }
+
     .social-links {
       font-size: 200%;
       margin: 10px auto; }
