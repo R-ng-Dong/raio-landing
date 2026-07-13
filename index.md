@@ -8,12 +8,6 @@ sitemap:
 
 # Giới thiệu
 
-**RaioSmart** là bộ giải pháp SmartHome của Rạng Đông.
+**RaioSmart** là giải pháp nền tảng Raio của Rạng Đông.
 
 Website chính thức của công ty: [https://rangdong.com.vn](https://rangdong.com.vn)
-
----
-
-Giải pháp chiếu sáng thông minh RaioSmart
-
-rangdong.com.vn

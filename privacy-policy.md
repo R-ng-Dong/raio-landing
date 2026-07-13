@@ -1,5 +1,3 @@
-cách de
-
 ---
 layout: page
 title: Chính Sách Bảo Mật
