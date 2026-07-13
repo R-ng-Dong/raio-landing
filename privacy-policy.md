@@ -10,8 +10,8 @@ subtitle: Chính Sách Bảo Mật cho sản phẩm RaioSmart
 1\. Thông tin cá nhân
 
 - Chúng tôi có thể yêu cầu Quý khách cung cấp một số thông tin cá nhân như: Họ tên, địa chỉ, số điện thoại, địa chỉ email...
-- Chúng tôi sử dụng các thông tin Quý khách cung cấp để xử lý Đơn đặt hàng, cung cấp dịch vụ, thông tin về Sản phẩm, và các thông tin khác theo yêu cầu của Quý khách. Bên cạnh đó, Chúng tôi sẽ sử dụng các thông tin đó để quản lý tài khoản của Quý khách; xác minh và thực hiện giao dịch trực tuyến; cải thiện bố cục, nội dung trang web và điều chỉnh cho phù hợp với người dùng.
-- Bạn sẽ nhận được thông tin về chúng tôi, về sản phẩm, bản tin... Nếu bạn không muốn nhận những thông tin này, vui lòng nhấn vào link từ chối trong bất kỳ email chúng tôi gửi cho bạn. Trong vòng 7 ngày nhận chỉ dẫn của bạn, chúng tôi sẽ ngừng gửi thông tin
+- Chúng tôi sử dụng các thông tin Quý khách cung cấp để xử lý việc đăng ký, quản lý tài khoản và cung cấp các dịch vụ, tính năng của ứng dụng theo yêu cầu của Quý khách. Bên cạnh đó, chúng tôi sử dụng các thông tin này để xác minh danh tính, bảo mật tài khoản, hỗ trợ kỹ thuật khi cần thiết, cũng như cải thiện chất lượng sản phẩm, dịch vụ và trải nghiệm sử dụng phù hợp với nhu cầu của người dùng.
+- Bạn có thể nhận được thông tin về sản phẩm mới, tính năng cập nhật, chương trình khuyến mãi qua ứng dụng (thông báo đẩy), tin nhắn SMS, hoặc email (nếu bạn có cung cấp). Nếu bạn không muốn nhận các thông tin này, vui lòng vào **Cài đặt > Thông báo** trong ứng dụng để tắt loại thông báo tương ứng, hoặc trả lời từ chối theo hướng dẫn trong tin nhắn SMS/email chúng tôi gửi. Trong vòng 7 ngày kể từ khi nhận được yêu cầu của bạn, chúng tôi sẽ ngừng gửi các thông tin này (trừ các thông báo bắt buộc liên quan đến bảo mật tài khoản, an toàn thiết bị, hoặc thay đổi điều khoản dịch vụ).
 
 2\. Bảo mật
 
@@ -28,11 +28,42 @@ subtitle: Chính Sách Bảo Mật cho sản phẩm RaioSmart
 - Những thông tin cá nhân của Quý khách sẽ được Rạng Đông lưu trữ vô thời hạn, bất cứ thời điểm nào Quý khách cũng có thể chỉnh sửa những thông tin cá nhân của mình.
 - Nội dung của "Chính sách bảo mật" này có thể thay đổi để phù hợp với các nhu cầu của Chúng tôi cũng như nhu cầu và sự phản hồi từ khách hàng. Khi cập nhật nội dung chính sách này, Chúng tôi sẽ chỉnh sửa lại thời gian "Cập nhật lần cuối".
 
-5\. Cách thức xóa dữ liệu
+5\. Quyền của người dùng
 
-- Nếu bạn muốn xóa tài khoản và dữ liệu cá nhân, vui lòng liên hệ tổng đài hỗ trợ: **1900 2098** để được hỗ trợ xóa tài khoản.
+Theo quy định tại Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân, Quý khách có các quyền sau đây đối với dữ liệu cá nhân của mình:
 
-6\. Thông tin liên lạc
+- **Quyền được biết**: Quý khách có quyền được biết về hoạt động xử lý dữ liệu cá nhân của mình, trừ trường hợp pháp luật có quy định khác.
+- **Quyền đồng ý**: Quý khách có quyền đồng ý hoặc không đồng ý cho phép xử lý dữ liệu cá nhân của mình, trừ trường hợp pháp luật có quy định khác.
+- **Quyền truy cập**: Quý khách có quyền truy cập để xem, chỉnh sửa hoặc yêu cầu chỉnh sửa dữ liệu cá nhân của mình thông qua ứng dụng hoặc liên hệ trực tiếp với chúng tôi.
+- **Quyền rút lại sự đồng ý**: Quý khách có quyền rút lại sự đồng ý của mình bất cứ lúc nào. Việc rút lại sự đồng ý không ảnh hưởng đến tính hợp pháp của việc xử lý dữ liệu trước đó.
+- **Quyền xóa dữ liệu**: Quý khách có quyền yêu cầu xóa dữ liệu cá nhân của mình theo hướng dẫn tại Mục 6.
+- **Quyền hạn chế xử lý dữ liệu**: Quý khách có quyền yêu cầu hạn chế xử lý dữ liệu cá nhân của mình.
+- **Quyền cung cấp dữ liệu**: Quý khách có quyền yêu cầu chúng tôi cung cấp cho mình dữ liệu cá nhân của Quý khách.
+- **Quyền phản đối xử lý dữ liệu**: Quý khách có quyền phản đối việc xử lý dữ liệu cá nhân nhằm ngăn chặn hoặc hạn chế tiết lộ dữ liệu cá nhân hoặc sử dụng cho mục đích quảng cáo, tiếp thị.
+- **Quyền khiếu nại, tố cáo, khởi kiện**: Quý khách có quyền khiếu nại, tố cáo hoặc khởi kiện theo quy định của pháp luật.
+
+Để thực hiện các quyền trên, Quý khách vui lòng liên hệ với chúng tôi qua hotline **1900 2098** hoặc email được cung cấp tại Mục Thông tin liên hệ. Chúng tôi sẽ phản hồi yêu cầu của Quý khách trong vòng 72 giờ kể từ khi nhận được yêu cầu.
+
+6\. Cách thức xóa dữ liệu
+
+**Cách 1: Tự xóa tài khoản trên ứng dụng**
+
+Quý khách có thể chủ động xóa tài khoản và dữ liệu cá nhân trực tiếp trên ứng dụng RaioSmart theo các bước sau:
+
+1. Mở ứng dụng RaioSmart
+2. Vào **Cài đặt** (biểu tượng bánh răng)
+3. Chọn **Tài khoản** > **Xóa tài khoản**
+4. Xác nhận yêu cầu xóa tài khoản
+
+![Hướng dẫn xóa tài khoản](/assets/img/delete-acc.png)
+
+**Cách 2: Liên hệ tổng đài hỗ trợ**
+
+Nếu bạn muốn xóa tài khoản và dữ liệu cá nhân, vui lòng liên hệ tổng đài hỗ trợ: **1900 2098** để được hỗ trợ xóa tài khoản.
+
+**Lưu ý:** Sau khi xóa tài khoản, toàn bộ dữ liệu cá nhân của Quý khách sẽ được xóa khỏi hệ thống trong vòng 30 ngày. Một số dữ liệu có thể được giữ lại theo yêu cầu của pháp luật.
+
+7\. Thông tin liên lạc
 
 - Nếu Quý khách có bất kỳ thắc mắc, ý kiến đóng góp, liên hệ hay phản hồi về "Chính sách bảo mật" này, xin vui lòng liên hệ theo địa chỉ email:
 
@@ -73,11 +104,42 @@ Hotline: [1900 2098](tel:1900 2098)
 - Your personal information will be stored indefinitely by Rang Dong, at any time you can edit your personal information.
 - The content of this "Privacy Policy" is subject to change to suit our needs as well as customer needs and feedback. When updating the content of this policy, we will revise the "Last Updated" time.
 
-5\. How to delete your personal information
+5\. User Rights
 
-- If you want to delete your account and personal data, please contact our hotline: **1900 2098** for account deletion support.
+In accordance with Decree 13/2023/ND-CP on personal data protection, you have the following rights regarding your personal data:
 
-6\. Contact information
+- **Right to be informed**: You have the right to be informed about the processing of your personal data, except where otherwise provided by law.
+- **Right to consent**: You have the right to consent or not consent to the processing of your personal data, except where otherwise provided by law.
+- **Right to access**: You have the right to access, view, edit, or request correction of your personal data through the application or by contacting us directly.
+- **Right to withdraw consent**: You have the right to withdraw your consent at any time. Withdrawal of consent does not affect the lawfulness of processing prior to withdrawal.
+- **Right to erasure**: You have the right to request deletion of your personal data as instructed in Section 6.
+- **Right to restrict processing**: You have the right to request restriction of processing of your personal data.
+- **Right to data portability**: You have the right to request that we provide you with your personal data.
+- **Right to object**: You have the right to object to the processing of personal data to prevent or restrict disclosure of personal data or use for advertising and marketing purposes.
+- **Right to complain and litigate**: You have the right to complain, denounce, or initiate lawsuits in accordance with the law.
+
+To exercise these rights, please contact us via hotline **1900 2098** or the email provided in the Contact Information section. We will respond to your request within 72 hours of receipt.
+
+6\. How to delete your personal information
+
+**Option 1: Delete account directly in the app**
+
+You can proactively delete your account and personal data directly in the RaioSmart app by following these steps:
+
+1. Open the RaioSmart app
+2. Go to **Settings** (gear icon)
+3. Select **Account** > **Delete Account**
+4. Confirm the account deletion request
+
+![Account deletion guide](/assets/img/delete-acc.png)
+
+**Option 2: Contact customer support**
+
+If you want to delete your account and personal data, please contact our hotline: **1900 2098** for account deletion support.
+
+**Note:** After deleting your account, all your personal data will be removed from our system within 30 days. Some data may be retained as required by law.
+
+7\. Contact information
 
 - If you have any questions, comments, contact or feedback about this "Privacy Policy", please contact us at the email address:
 

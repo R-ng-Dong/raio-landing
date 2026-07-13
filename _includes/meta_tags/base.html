@@ -5,3 +5,5 @@
 <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
 <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl }}">
+<link rel="icon" type="image/png" href="/assets/img/raio.png">
+<link rel="apple-touch-icon" href="/assets/img/raio.png">

@@ -1,6 +1,8 @@
 <header class="header">
     <div class="navigation">
-        <a href="{{ '/' | prepend: site.baseurl }}" class="logo">{{ site.title }}</a>
+        <a href="{{ '/' | prepend: site.baseurl }}" class="logo" style="display: inline-flex; align-items: center; gap: 0.4em;">
+            <img src="/assets/img/raio.png" alt="RaioSmart Logo" style="height: 1.8em;">{{ site.title }}
+        </a>
         <ul class="menu">
             <li class="menu__entry"><a href="{{ '/privacy-policy' | prepend: site.baseurl }}">Chính Sách Bảo Mật</a></li>
             <li class="menu__entry"><a href="{{ '/terms-of-service' | prepend: site.baseurl }}">Điều khoản sử dụng</a></li>
