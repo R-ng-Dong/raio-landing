@@ -3,8 +3,8 @@ title: RaioSmart
 description: >
   RaioSmart Landing page
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://raio-about.rangdong.com.vn" # the base hostname & protocol for your site
+baseurl: "/raio-landing" # the subpath of your site, e.g. /blog/
+url: "https://r-ng-dong.github.io" # the base hostname & protocol for your site
 
 author:
   fullname: RaioSmart
