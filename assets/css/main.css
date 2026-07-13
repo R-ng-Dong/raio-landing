@@ -203,6 +203,11 @@
       text-align: center;
       width: 100%; }
 
+    .logo {
+      display: inline-flex !important;
+      justify-content: center;
+      width: 100%; }
+
     .social-links {
       font-size: 200%;
       margin: 10px auto; }
